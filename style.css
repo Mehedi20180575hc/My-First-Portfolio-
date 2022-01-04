@@ -5,6 +5,7 @@ body{
 }
 section{
     display: flex;
+    padding: 60px 0;
 }
 h1{
     font-size: 50px;
@@ -30,4 +31,14 @@ width: 80%;
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+/* first section complet */
+h2{
+    font-size: 50px;
+}
+.dream_big{
+    padding-top: 100px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
