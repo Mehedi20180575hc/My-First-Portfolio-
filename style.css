@@ -3,7 +3,7 @@ body{
     margin: 0;
     padding: 0;
 }
-section{
+.flexible-container{
     display: flex;
     padding: 60px 0;
 }
